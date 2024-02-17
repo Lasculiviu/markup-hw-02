@@ -1,0 +1,4 @@
+.logo::before{
+content: "WEB";
+color: blue;
+}
